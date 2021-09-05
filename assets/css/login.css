@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    background: url(./../img/bck_initial.jpg) no-repeat center top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+input[type=text], input[type=password] {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+h3 { color: white; }
+.conteiner{
+    padding: 200px 0;
+    border: 1px solid black;
+    text-align: center;;
+}
+
+button {
+    background-color: white;
+    border: none;
+    text-decoration-color: black;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+.p { color: white;}
+a { color:white; }
